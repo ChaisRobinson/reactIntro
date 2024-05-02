@@ -9,7 +9,7 @@ function EmployeePage({title}) {
       <Header topic={title}/>
 
     <div className='topContainer'>
-      <img src="" alt="" className="profile" />
+      <img src="/gnar.jpg" alt="" className="profile" />
       <div className='infoBox'>
         <p>Julie Taylor</p>
         <p>VP MARKETING</p>
